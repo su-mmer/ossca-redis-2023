@@ -35,3 +35,8 @@ Redis
 |4주차|Redis 소스 코드 분석 db.h, db.c, t_string.c 분석|
 |5주차|Redis 소스 코드 분석 t_set.c, t_zset.c|
 |6주차|조별 내부 발표|
+
+참석자
+------
+|이름|github|
+|강대명|https://github.com/charsyam|
