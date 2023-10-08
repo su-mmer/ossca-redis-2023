@@ -23,3 +23,15 @@ Redis
 |4주차|Redis 소개 및 개발 프로젝트 과정 이해 #2|Redis 자료구조 코드 이해|
 |5주차|조별 Redis 컨트리뷰션 #1|새로운 커맨드 추가|
 |6주차|조별 Redis 컨트리뷰션 #2|그외 Redis 코드 변경|
+
+진행내용 상세
+------------
+
+|주차|내용|
+|------|---|
+|1주차|Git 상세 명령을 공부합니다. clone, branch, push, pull, add, commit, cherrypick 등|
+|2주차|Redis 코드 빌드 및 테스트 돌려보기|
+|3주차|Redis 소스 코드 분석 server.h, server.c 분석|
+|4주차|Redis 소스 코드 분석 db.h, db.c, t_string.c 분석|
+|5주차|Redis 소스 코드 분석 t_set.c, t_zset.c|
+|6주차|조별 내부 발표|
