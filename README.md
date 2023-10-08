@@ -38,5 +38,8 @@ Redis
 
 참석자
 ------
+
 |이름|github|
 |강대명|https://github.com/charsyam|
+
+
