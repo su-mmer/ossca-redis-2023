@@ -45,4 +45,4 @@ Redis
 |우지원|https://github.com/Jiwon-Woo|
 |최장호|https://github.com/cjho0316|
 |황시연|https://github.com/lowgiant|
-
+|김민수|https://github.com/munis-kim|
