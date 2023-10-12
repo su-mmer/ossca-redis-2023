@@ -52,5 +52,6 @@ Redis
 |박신형|https://github.com/ShinHyeong|
 |정종운|https://github.com/skeep194|
 |이경훈|https://github.com/pongdangx2|
+|조은일|https://github.com/JoEunil|
 -- INSERT --
 -- INSERT --
